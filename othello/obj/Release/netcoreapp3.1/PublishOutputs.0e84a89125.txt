@@ -1,0 +1,5 @@
+C:\Users\mehrdad\Desktop\programs\othello.exe
+C:\Users\mehrdad\Desktop\programs\othello.dll
+C:\Users\mehrdad\Desktop\programs\othello.deps.json
+C:\Users\mehrdad\Desktop\programs\othello.runtimeconfig.json
+C:\Users\mehrdad\Desktop\programs\othello.pdb

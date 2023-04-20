@@ -1,0 +1,15 @@
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\bin\Release\netcoreapp3.1\othello.exe
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\bin\Release\netcoreapp3.1\othello.deps.json
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\bin\Release\netcoreapp3.1\othello.runtimeconfig.json
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\bin\Release\netcoreapp3.1\othello.runtimeconfig.dev.json
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\bin\Release\netcoreapp3.1\othello.dll
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\bin\Release\netcoreapp3.1\othello.pdb
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.csprojAssemblyReference.cache
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.Form1.resources
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.csproj.GenerateResource.cache
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.AssemblyInfoInputs.cache
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.AssemblyInfo.cs
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.csproj.CoreCompileInputs.cache
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.dll
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.pdb
+C:\Users\mehrdad\Desktop\programs\CSharp\othello\othello\obj\Release\netcoreapp3.1\othello.genruntimeconfig.cache

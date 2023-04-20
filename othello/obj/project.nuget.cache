@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Bih7alwfk6SM5tBb62G+wRHi5/Hc3PMH5zIV+nTgVRO0OT2X6MSt1KRREDf3ZALjN6VMiACVXLDsMjNp5aIzA==",
+  "success": true,
+  "projectFilePath": "D:\\learn-programs\\CSharp\\othello\\othello\\othello.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
